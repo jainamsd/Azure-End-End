@@ -6,7 +6,7 @@ This project demonstrates a complete **end-to-end data engineering solution** us
 
 ## Project Overview
 
-In this project, we:
+In this project, I:
 - Ingest raw data from an on-premise SQL Server into the **Bronze Layer** (Raw Data).
 - Perform data transformations (e.g., date formatting, column renaming) using PySpark in **Azure Databricks** to move data from Bronze to **Silver** and from Silver to **Gold** layers.
 - Use **Delta Lake** format to enable schema evolution and efficient data querying.
